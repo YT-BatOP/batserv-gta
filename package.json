@@ -1,0 +1,15 @@
+{
+  "name": "batserv-gta",
+  "version": "1.0.0",
+  "description": "Un module pour interroger les serveurs FiveM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BatOP <batop@nds-heberg.fr>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YT-BatOP/batserv-gta"
+  }
+}
